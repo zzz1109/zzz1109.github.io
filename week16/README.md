@@ -7,6 +7,8 @@ void draw(){
   ellipse (50,50,80,80);
 //       圓心, 寬,高 
 }
+
+
 16-2
 void setup(){
   size(400,200);
@@ -22,6 +24,8 @@ void draw(){
   arc(50,50,80,80,0,stop);
   //  圖心  寬高 開始 結束
 }
+
+
 16-3
 void setup(){
   size(400,200);
@@ -38,6 +42,8 @@ void draw(){
   arc(50,50,80,80,0+start,0.1+start);
   //  圖心  寬高 開始 結束
 }
+
+
 16-4
 void setup() {
   size(400, 200);
@@ -57,6 +63,8 @@ void draw() {
     arc(100, 100, 180, 180, shift+0+start, shift+PI/12+start);
   }
 }
+
+
 16-5
 void setup() {
   size(400, 200);
@@ -77,6 +85,8 @@ void draw() {
     arc(100, 100, 180, 180, shift+0+start, shift+PI/12+start);
   }
 }
+
+
 16-6
 void setup() {
   size(400, 200);
@@ -96,6 +106,8 @@ void draw() {
     arc(100, 100, 180, 180, shift+0+start, shift+PI/12+start);
   }
 }
+
+
 16-7
 void setup() {
   size(400, 200);
@@ -120,6 +132,8 @@ void draw() {
     arc(100, 100, 180, 180, shift+0+start, shift+PI/12+start);
   }
 }
+
+
 16-8
 void setup() {
   size(400, 200);
